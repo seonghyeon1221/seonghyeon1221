@@ -9,12 +9,11 @@
 <br>
 
 ### ⚡ 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙁𝙤𝙘𝙪𝙨𝙞𝙣𝙜 𝙊𝙣
-<br>
-**SQLD Certification**
-<br>
-**알려드림 Project**
-<br>
-**Python AI Model Study**
+<ul>
+  <li><b>SQLD Certification</b></li>
+  <li><b>알려드림 Project</b></li>
+  <li><b>Python AI Predictive Model Study</b></li>
+</ul>
 
 <br>
 
